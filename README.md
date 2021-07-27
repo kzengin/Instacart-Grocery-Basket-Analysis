@@ -1,2 +1,2 @@
-# Python-Projects
-This repository will contain all Python based projects, which involves collecting, cleaning data and performing EDA.
+# Instacart Grocery Basket Analysis
+This repository will contain all Python work, which involves collecting, cleaning data and performing EDA.
